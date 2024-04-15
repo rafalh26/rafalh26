@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafalh26
-- 👀 I’m interested in C++ QT
-- 🌱 I’m currently learning SQL C++ QT
+- 👀 I’m interested in C++, C#
+- 🌱 I’m currently learning SQL and C#
 - 📫 How to reach me ...
 rafalh26@gmail.com
 <!---
